@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\STUDY\LSI_S4\.NET\Projet_NET\Projet_NET\bin\Debug\Projet_NET.exe.config
+C:\Users\HP\Desktop\STUDY\LSI_S4\.NET\Projet_NET\Projet_NET\bin\Debug\Projet_NET.exe
+C:\Users\HP\Desktop\STUDY\LSI_S4\.NET\Projet_NET\Projet_NET\bin\Debug\Projet_NET.pdb
+C:\Users\HP\Desktop\STUDY\LSI_S4\.NET\Projet_NET\Projet_NET\obj\Debug\Projet_NET.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\STUDY\LSI_S4\.NET\Projet_NET\Projet_NET\obj\Debug\Projet_NET.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\STUDY\LSI_S4\.NET\Projet_NET\Projet_NET\obj\Debug\Projet_NET.Connexion.resources
+C:\Users\HP\Desktop\STUDY\LSI_S4\.NET\Projet_NET\Projet_NET\obj\Debug\Projet_NET.Properties.Resources.resources
+C:\Users\HP\Desktop\STUDY\LSI_S4\.NET\Projet_NET\Projet_NET\obj\Debug\Projet_NET.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\STUDY\LSI_S4\.NET\Projet_NET\Projet_NET\obj\Debug\Projet_NET.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\STUDY\LSI_S4\.NET\Projet_NET\Projet_NET\obj\Debug\Projet_NET.exe
+C:\Users\HP\Desktop\STUDY\LSI_S4\.NET\Projet_NET\Projet_NET\obj\Debug\Projet_NET.pdb
+C:\Users\HP\Desktop\STUDY\LSI_S4\.NET\Projet_NET\Projet_NET\obj\Debug\Projet_NET.Categorie.resources
+C:\Users\HP\Desktop\STUDY\LSI_S4\.NET\Projet_NET\Projet_NET\obj\Debug\Projet_NET.Article.resources
+C:\Users\HP\Desktop\STUDY\LSI_S4\.NET\Projet_NET\Projet_NET\obj\Debug\Projet_NET.Commande.resources
+C:\Users\HP\Desktop\STUDY\LSI_S4\.NET\Projet_NET\Projet_NET\obj\Debug\Projet_NET.Fournisseur.resources
+C:\Users\HP\Desktop\STUDY\LSI_S4\.NET\Projet_NET\Projet_NET\obj\Debug\Projet_NET.Ligne_cmd.resources
+C:\Users\HP\Desktop\STUDY\LSI_S4\.NET\Projet_NET\Projet_NET\obj\Debug\Projet_NET.user.resources
